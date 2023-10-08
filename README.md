@@ -1,11 +1,14 @@
 ## React JS Landing Page: Learning React
 
-## Description
 This is a ReactJS based landing page template with a one page view. 
 
-You can customize it for yourself by adding content to src/data/data.json and images to public/img/.
+## Description
 
-I'm creating this to show a real working example of a React website that can be created and deployed easily. It has no new code functionality, but that could be added upon request.
+I'm creating this to show a real working example of a React website that can be created and deployed easily. 
+
+It has no new code functionality, but that could be added upon request.
+
+You can customize the template for yourself by adding content to src/data/data.json and images to public/img/.
 
 ## Run The App
 
@@ -22,7 +25,7 @@ And
 
 ## Credit
 
-This app was forked from Issaaf Kattan.
+This app was forked from Issaaf Kattan's GitHub repo.
 
 https://github.com/issaafalkattan/React-Landing-Page-Template
 
