@@ -5,6 +5,10 @@ This is a ReactJS based landing page template with a one page view.
 
 ![screensot of learning react page running locally](./public/learn_react_page.png)
 
+Live version here:
+
+[http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/](http://react-landing-page-learn-react.s3-website-us-east-1.amazonaws.com/)
+
 ## Description
 
 I'm creating this to show a real working example of a React website that can be created and deployed easily. 
