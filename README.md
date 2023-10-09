@@ -1,6 +1,6 @@
 ## React JS Landing Page: Learning React
 
-This is a ReactJS based landing page template with a one page view. 
+This is a ReactJS based landing page template with a one page view, based on a [fork](https://github.com/issaafalkattan/React-Landing-Page-Template).
 
 
 ![screensot of learning react page running locally](./public/learn_react_page.png)
