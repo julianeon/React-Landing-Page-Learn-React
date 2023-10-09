@@ -13,7 +13,7 @@ Live version here:
 
 I'm creating this to show a real working example of a React website that can be created and deployed easily. 
 
-I've changed the data.json text and some of the component text, and also deployed my version to S3.
+I've changed the data.json text and some of the component text, added images of prominent React folk, and deployed my version to S3.
 
 It has no new code functionality, but that could be added upon request.
 
